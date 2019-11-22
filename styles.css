@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.page-container {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #FFFFFF;
+}
+.container {
+	margin: 0 auto;
+	width: 100%;
+	background-color: #FF0004;
+	overflow: auto;
+}
+.col {
+	width: 33%;
+	float: left;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding-left: 5px;
+	padding-right: 5px;
+}
